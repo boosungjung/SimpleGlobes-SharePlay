@@ -1,0 +1,24 @@
+{
+  "originHash" : "08a23e59ce1a639d78bd8b293044683c099aa67576d6ccf1f87c6c46bd9924dd",
+  "pins" : [
+    {
+      "identity" : "shareplaymock",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Pixeland-Tech/SharePlayMock",
+      "state" : {
+        "revision" : "a7d5a578d55758bb4959ab1c041cbd8401ab57a7",
+        "version" : "0.1.2"
+      }
+    },
+    {
+      "identity" : "starscream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitee.com/nikopeng/Starscream",
+      "state" : {
+        "revision" : "c6bfd1af48efcc9a9ad203665db12375ba6b145a",
+        "version" : "4.0.8"
+      }
+    }
+  ],
+  "version" : 3
+}
